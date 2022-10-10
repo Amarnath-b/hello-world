@@ -31,7 +31,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning - AMARNATH -DevOps </h1>
+  <h1> Thankyou, Happy Learning </h1>
+  <br>
+  <br>
+  <h1>AMARNATH -DevOps </h1>
 
   
 </form>
