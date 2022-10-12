@@ -37,6 +37,6 @@
   <h1>AMARNATH -DevOps </h1>
   <h2>PREETHA </h2>
   <h3>Shivanand </h3>
-  <h3>Aditya </h3>
+  <h3>Aditya Today is 12th Oct 2022</h3>
   
 </form>
