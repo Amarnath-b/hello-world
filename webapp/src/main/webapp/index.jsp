@@ -33,12 +33,11 @@
 
   <h1> Thankyou, Happy Learning </h1>
   <br>
-  <br>
   <h1>AMARNATH -DevOps </h1>
   <h2>PREETHA </h2>
   <h3>Shivanand </h3>
   <h3>Aditya </h3> 
   <br>
-  <h3>Today is 13th Oct 2022</h3>
+  <h3>Today is Thursday, 13th Oct 2022</h3>
   
 </form>
