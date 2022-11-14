@@ -32,7 +32,7 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1
-   <br>>
+   <b>>
    <h1> Today is 14th Nov 2022 </h1>
   
 </form>
