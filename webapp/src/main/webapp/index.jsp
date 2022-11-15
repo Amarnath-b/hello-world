@@ -35,6 +35,6 @@
    <br>
    <input type="datetime-local"> 
    <br>
-   <h1> Today is 14th Nov 2022 </h1>
-  
+   <h1> Time is <span id="time"> </span></h1>
+
 </form>
