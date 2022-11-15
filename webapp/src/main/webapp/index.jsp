@@ -36,5 +36,5 @@
    <input type="datetime-local"> 
    <br>
    <h1> Time is <span id="time"> </span></h1>
-
+   <img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 </form>
