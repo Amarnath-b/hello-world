@@ -43,6 +43,6 @@
   <h3>Shivanand </h3>
   <h3>Aditya </h3> 
   <br>
-  <h3>Today is Saturday, 15th Oct 2022</h3>
+  <h3>Today Wednesday, 23rd Nov 2022</h3>
   
 </form>
