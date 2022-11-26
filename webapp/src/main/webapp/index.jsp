@@ -62,7 +62,7 @@
    <br>
    <input type="datetime-local"> 
    <br>
-   <h1> Today is Wednesday, 23rd Nov 2022</h1>
+   <h1> Today is Saturday, 26th Nov 2022</h1>
    <img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 >>>>>>> ddad827df453733c72d7f291b91741aa15b8d528
 </form>
