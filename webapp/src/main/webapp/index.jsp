@@ -51,6 +51,6 @@
   <h3>Shivanand </h3>
   <h3>Aditya </h3> 
   <br>
-   <h1> Today is Saturday, 26th Nov 2022</h1>
+   <h1> Today is Tuesday, 29th Nov 2022</h1>
    <img src="pic_trulli.jpg" alt="Trulli" width="500" height="333">
 </form>
